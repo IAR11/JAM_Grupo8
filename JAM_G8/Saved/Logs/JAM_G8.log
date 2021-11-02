@@ -801,3 +801,96 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.02-15.50.35:116][315]LogSavePackage: Moving '../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Saved/FirstPersonExampleMap645CF5A94201BC4FF8E9C3BB50A7DD62.tmp' to '../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2021.11.02-15.50.35:132][315]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2021.11.02-15.50.35:132][315]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.11.02-16.00.35:207][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.11.02-16.00.35:234][874]LogSavePackage: Moving '../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Saved/FirstPersonExampleMap_Auto11A9B1E9A42F6C985752E8595468EC0A3.tmp' to '../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2021.11.02-16.00.35:235][874]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.034
+[2021.11.02-16.00.35:235][874]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2021.11.02-16.47.05:475][215]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.02-16.47.05:485][215]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.02-16.47.05:493][215]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.02-16.47.10:025][657]LogContentBrowser: Attempting asset rename: NewBlueprint -> MainMenu
+[2021.11.02-16.47.10:039][657]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.02-16.47.11:652][814]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/MainMenu.MainMenu
+[2021.11.02-16.47.11:950][814]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.11.02-16.50.39:699][263]LogSlate: Window 'MainMenu' being destroyed
+[2021.11.02-16.50.39:704][263]LogSlate: Window 'MainMenu' being destroyed
+[2021.11.02-16.50.39:709][263]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-16.50.39:709][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-16.50.41:151][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.11.02-16.50.42:546][395]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.02-16.50.42:632][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.11.02-16.51.49:589][719]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.11.02-16.51.49:600][719]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.11.02-16.51.53:437][ 96]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenu
+[2021.11.02-16.51.53:454][ 96]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.11.02-16.51.54:594][208]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/MainMenu.MainMenu
+[2021.11.02-16.51.55:652][208]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.02-16.59.30:610][446]LogSlate: Window 'MainMenu' being destroyed
+[2021.11.02-16.59.30:628][446]LogSlate: Window 'MainMenu' being destroyed
+[2021.11.02-16.59.30:660][446]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-16.59.30:661][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-16.59.30:675][446]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-16.59.30:675][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-16.59.32:011][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.11.02-16.59.33:084][470]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.02-16.59.33:180][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.11.02-17.00.12:034][624]LogSlate: Window 'New Level' being destroyed
+[2021.11.02-17.00.14:739][624]LogSlate: Window 'Save Content' being destroyed
+[2021.11.02-17.00.16:100][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.11.02-17.00.16:122][727]LogSavePackage: Moving '../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Saved/FirstPersonExampleMapEAAB13464EB6FAC16555A89B1D06F26E.tmp' to '../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.11.02-17.00.16:134][727]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.11.02-17.00.16:135][727]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.11.02-17.00.32:363][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.02-17.00.32:744][389]Cmd: TRANSACTION UNDO
+[2021.11.02-17.00.32:744][389]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.02-17.00.35:586][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.11.02-17.00.35:608][621]LogSavePackage: Moving '../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Saved/FirstPersonExampleMapD0A5472D488CEEB37B8314A600FA50DE.tmp' to '../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.11.02-17.00.35:620][621]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.11.02-17.00.35:620][621]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.11.02-17.01.01:233][713]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.11.02-17.01.01:241][713]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.11.02-17.01.05:072][101]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenu
+[2021.11.02-17.01.05:079][101]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.11.02-17.01.10:217][654]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.11.02-17.01.10:226][654]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.11.02-17.01.17:495][398]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> PauseMenu
+[2021.11.02-17.01.17:499][398]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.11.02-17.02.00:159][563]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.11.02-17.02.00:170][563]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.11.02-17.02.02:456][799]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> HUD
+[2021.11.02-17.02.02:459][799]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.11.02-17.02.33:524][863]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.11.02-17.02.33:544][863]LogContentBrowser: Creating deferred item: NewWorld
+[2021.11.02-17.02.41:936][714]LogContentBrowser: Attempting asset rename: NewWorld -> main
+[2021.11.02-17.02.41:941][714]LogContentBrowser: End creating deferred item NewWorld
+[2021.11.02-17.02.52:496][236]LogObjectTools: Deleting 1 worlds: /Game/main.main
+[2021.11.02-17.02.52:496][236]LogObjectTools: Currently 5 active worlds: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3
+[2021.11.02-17.02.52:522][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.11.02-17.02.53:797][236]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.02-17.02.53:816][236]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-17.02.53:816][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-17.02.53:856][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.11.02-17.02.56:915][555]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.11.02-17.02.56:924][555]LogContentBrowser: Creating deferred item: NewWorld
+[2021.11.02-17.02.59:368][809]LogContentBrowser: Attempting asset rename: NewWorld -> Main
+[2021.11.02-17.02.59:370][809]LogContentBrowser: End creating deferred item NewWorld
+[2021.11.02-17.03.31:988][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.11.02-17.03.32:009][332]LogSavePackage: Moving '../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Saved/FirstPersonExampleMapF3A5E66843746BFA156CE3B917C4CF56.tmp' to '../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.11.02-17.03.32:021][332]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.11.02-17.03.32:021][332]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.11.02-17.04.43:135][266]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu.MainMenu
+[2021.11.02-17.04.48:278][767]LogSlate: Window 'MainMenu' being destroyed
+[2021.11.02-17.04.51:971][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Content/MainMenu.uasset" SILENT=true
+[2021.11.02-17.04.51:975][193]LogSavePackage: Moving '../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Saved/MainMenu444150CC4AC642B747D04FBC9EE6862B.tmp' to '../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Content/MainMenu.uasset'
+[2021.11.02-17.04.51:989][193]AssetCheck: New page: Asset Save: MainMenu
+[2021.11.02-17.04.51:989][193]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu.MainMenu
+[2021.11.02-17.06.24:513][176]BlueprintLog: New page: Compile MainMenu
+[2021.11.02-17.06.24:550][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.11.02-17.06.25:356][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Content/MainMenu.uasset" SILENT=true
+[2021.11.02-17.06.25:360][263]LogSavePackage: Moving '../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Saved/MainMenuA2EC0A724E4BC39E31254989FCCCCFBF.tmp' to '../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Content/MainMenu.uasset'
+[2021.11.02-17.06.25:370][263]AssetCheck: New page: Asset Save: MainMenu
+[2021.11.02-17.06.25:370][263]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu.MainMenu
+[2021.11.02-17.06.36:097][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.11.02-17.06.36:117][855]LogSavePackage: Moving '../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Saved/FirstPersonExampleMapAC7FEEC741A823B6B243CCAE8620BD43.tmp' to '../../../../../../Users/petergeorghe.julca/Documents/Unreal Projects/JAM_Grupo8/JAM_G8/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.11.02-17.06.36:130][855]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.11.02-17.06.36:130][855]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
